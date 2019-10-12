@@ -13,7 +13,7 @@
      "car_nv_grado":8,
      "car_modalidad":1}
   ],
-  "items":
+  "malla":
   [
     {"ma_ccar":1353,
      "ma_men":0,
@@ -31,5 +31,19 @@
      "ma_ver_plan":2,
      "ma_linea_visual":1,
      "ma_correl_visual":2}
-  ]
+  ],
+  "prerrequisito":
+  [
+    {"pre_ccar":1353,
+     "pre_men":0,
+     "pre_cod_pla":2012,
+     "pre_asi":10107,
+     "pre_asi_pre":10101,
+     "pre_ver_plan":1},
+    {"pre_ccar":1353,
+     "pre_men":0,
+     "pre_cod_pla":2012,
+     "pre_asi":10107,
+     "pre_asi_pre":10101,
+     "pre_ver_plan":2}
 }
