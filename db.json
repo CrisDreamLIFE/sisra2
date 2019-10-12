@@ -41,5 +41,10 @@
      "pre_asi_pre":10101,
      "pre_ver_plan":1
     }
+  ],
+  "especialidad":
+  [
+    {"esp_cod":13,
+     "esp_nom":"INFORMATICA"}
   ]
 }
