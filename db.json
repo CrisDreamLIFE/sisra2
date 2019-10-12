@@ -46,5 +46,11 @@
   [
     {"esp_cod":13,
      "esp_nom":"INFORMATICA"}
+  ],
+  "tcarrera":
+  [
+    {"tcr_ctip":12,
+     "tcr_nom":"INGENIERIA DE EJECUCION EN",
+     "tcr_tipo":1}
   ]
 }
