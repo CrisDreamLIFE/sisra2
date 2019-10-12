@@ -12,5 +12,24 @@
      "car_cjor":1,
      "car_nv_grado":8,
      "car_modalidad":1}
+  ],
+  "items":
+  [
+    {"ma_ccar":1353,
+     "ma_men":0,
+     "ma_cod_pla":2012,
+     "ma_asign":10101,
+     "ma_niv":1,
+     "ma_ver_plan":2,
+     "ma_linea_visual":1,
+     "ma_correl_visual":1},
+    {"ma_ccar":1353,
+     "ma_men":0,
+     "ma_cod_pla":2012,
+     "ma_asign":10102,
+     "ma_niv":1,
+     "ma_ver_plan":2,
+     "ma_linea_visual":1,
+     "ma_correl_visual":2}
   ]
 }
