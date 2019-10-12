@@ -1,16 +1,16 @@
 {
   "carrera":
   [
-  {"car_cod":1353,
-  "car_ctip":12,
-  "car_cesp":15,
-  "car_cgra":1,
-  "car_cdpto":35,
-  "car_cplan":2012,
-  "car_nro_nv":8,
-  "car_creg":1,
-  "car_cjor":1,
-  "car_nv_grado":8,
-  "car_modalidad":1}
+    {"car_cod":1353,
+     "car_ctip":12,
+     "car_cesp":15,
+     "car_cgra":1,
+     "car_cdpto":35,
+     "car_cplan":2012,
+     "car_nro_nv":8,
+     "car_creg":1,
+     "car_cjor":1,
+     "car_nv_grado":8,
+     "car_modalidad":1}
   ]
 }
